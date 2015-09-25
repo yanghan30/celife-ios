@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://app.gemini.xinfu.info/celife.ipa</string>
+	<key>Bundle identifier</key>
+	<string>info.xinfu</string>
+	<key>Bundle version</key>
+	<string>2.5</string>
+	<key>Title</key>
+	<string>畅e生活(企业版)</string>
+	<key>Display image</key>
+	<string></string>
+	<key>Full size image</key>
+	<string></string>
+</dict>
+</plist>
